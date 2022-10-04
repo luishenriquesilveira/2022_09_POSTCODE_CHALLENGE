@@ -1,0 +1,30 @@
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.sample-history {
+    margin-top: 40px;
+    flex: 0 0 auto;
+    width: 33.77%;
+}
+
+.text-input-group {
+    width: 165px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.input-al-left {
+    text-align: left;
+}
+
