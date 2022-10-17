@@ -18,9 +18,7 @@
 | #2       | SW46TA   |          |
 | #3       | SW1A     |          |
 | #4       | W1B3AG   |          |
-| #5       | PO63TD   |          |
-
-     
+| #5       | PO63TD   |          |    
 	     
 		 
 
@@ -41,8 +39,3 @@ If you're not familiar with GIT, use the Sourcetree client to get started or vis
 Once you're done with your work, COMMIT and then PUSH (ie. send to bitbucket). The PUSH with notify us and we will review your work. Only push when you're done, and push once. This is to avoid us reviewing an incomplete submission.
 
 ---
-
-### We're here to help...
-Should you run into problems or have any questions - please get in touch with either your recruitment agent or with Renato Oliveira - renato.oliveira@craftablesoftware.com
-
-Good luck  
